@@ -23,7 +23,7 @@ export const metadata: Metadata = {
     description: "Join us in celebrating Ahmed & Rola's wedding",
     images: [
       {
-        url: "https://ahmed-rola.digitivaa.com/invitation-design.png?t=20241220v3",
+        url: "https://ahmed-rola.digitivaa.com/invitation-design.png?t=20260904v1",
         width: 768,
         height: 1365,
         alt: "Ahmed & Rola Wedding Invitation",
@@ -35,7 +35,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Ahmed & Rola - Wedding Celebration",
     description: "Join us in celebrating Ahmed & Rola's wedding",
-    images: ["https://ahmed-rola.digitivaa.com/invitation-design.png?t=20241220v3"],
+    images: ["https://ahmed-rola.digitivaa.com/invitation-design.png?t=20260904v1"],
   },
   icons: {
     icon: "/invitation-design.png",
@@ -63,8 +63,8 @@ export default function RootLayout({
         <meta property="og:type" content="website" />
         <meta property="og:title" content="Ahmed & Rola - Wedding Celebration" />
         <meta property="og:description" content="Join us in celebrating Ahmed & Rola's wedding" />
-        <meta property="og:image" content="https://ahmed-rola.digitivaa.com/invitation-design.png?t=20241220v3" />
-        <meta property="og:image:secure_url" content="https://ahmed-rola.digitivaa.com/invitation-design.png?t=20241220v3" />
+        <meta property="og:image" content="https://ahmed-rola.digitivaa.com/invitation-design.png?t=20260904v1" />
+        <meta property="og:image:secure_url" content="https://ahmed-rola.digitivaa.com/invitation-design.png?t=20260904v1" />
         <meta property="og:image:type" content="image/png" />
         <meta property="og:image:width" content="768" />
         <meta property="og:image:height" content="1365" />
@@ -76,7 +76,7 @@ export default function RootLayout({
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="Ahmed & Rola - Wedding Celebration" />
         <meta name="twitter:description" content="Join us in celebrating Ahmed & Rola's wedding" />
-        <meta name="twitter:image" content="https://ahmed-rola.digitivaa.com/invitation-design.png?t=20241220v3" />
+        <meta name="twitter:image" content="https://ahmed-rola.digitivaa.com/invitation-design.png?t=20260904v1" />
 
         {/* Preload PNG with high priority to eliminate lag on Netlify */}
         <link
